@@ -188,17 +188,17 @@ h1 {
 }
 .curso__titulo {
     font-size: 25px;
-    color: var(--cor-terciaria); /* Cor para destacar os títulos dos cursos */
-    margin-top: 20px; /* Espaçamento superior para separar os cursos */
+    color: var(--cor-terciaria); 
+    margin-top: 20px; 
 }
 
 .curso__duracao, .curso__descricao {
-    font-size: 15px;
-    margin: 5px 0; /* Espaçamento vertical para legibilidade */
+    font-size: 20px;
+    margin: 5px 0; 
 }
 
 .curso__descricao strong {
-    color: var(--cor-secundaria); /* Cor mais clara ou diferente para destacar 'Descrição' */
+    color: var(--cor-secundaria); 
 }
 @media (max-width: 1200px) {
     .cabecalho {
